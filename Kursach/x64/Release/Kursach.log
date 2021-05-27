@@ -1,0 +1,108 @@
+﻿  Ball_collision.cpp
+  Ball_shape.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Ball_shape.cpp(4,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\kolya\source\repos\Kursach\Kursach\Ball_shape.cpp(33,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Ball_shape.cpp(33,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Button.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(11,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(12,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(17,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(17,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(18,52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(21,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(21,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(24,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(24,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(61,62): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Button.cpp(62,60): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Draw_rect.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Draw_rect.cpp(23,10): warning C4244: return: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Draw_rect.cpp(28,10): warning C4244: return: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Draw_rect.cpp(35,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Draw_rect.cpp(35,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Draw_text.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Draw_text.cpp(26,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Draw_text.cpp(26,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Energy.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Energy.cpp(29,18): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Energy.cpp(32,19): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  Game.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(13,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(15,37): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(138,110): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(138,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(247,138): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(247,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(370,28): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(460,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(463,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(464,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(466,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(466,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(529,116): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(529,74): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(682,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(709,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(736,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(763,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(787,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(801,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(815,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Game.cpp(829,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Menu.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Menu.cpp(16,101): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Menu.cpp(16,51): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  MyWindow.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\MyWindow.cpp(145,48): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\MyWindow.cpp(227,48): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+  Rectangle_collision.cpp
+  Rectangle_shape.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Rectangle_shape.cpp(9,45): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Rectangle_shape.cpp(10,46): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Rectangle_shape.cpp(15,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Rectangle_shape.cpp(15,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Select_Ball.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Select_Ball.cpp(116,50): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Select_Ball.cpp(116,41): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\kolya\source\repos\Kursach\Kursach\Select_Ball.cpp(131,91): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kolya\source\repos\Kursach\Kursach\Select_Ball.cpp(131,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Vector_rad.cpp
+C:\Users\kolya\source\repos\Kursach\Kursach\Vector_rad.cpp(5,28): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 603 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Kursach.vcxproj -> C:\Users\kolya\source\repos\Kursach\x64\Release\Kursach.exe

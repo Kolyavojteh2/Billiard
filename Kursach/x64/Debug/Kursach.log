@@ -1,0 +1,6 @@
+﻿  MyWindow.cpp
+c:\users\kolya\source\repos\kursach\kursach\mywindow.cpp(145): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\kolya\source\repos\kursach\kursach\mywindow.cpp(227): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Kursach.vcxproj -> C:\Users\kolya\source\repos\Kursach\x64\Debug\Kursach.exe

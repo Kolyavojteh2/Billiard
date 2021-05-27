@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Phisics">
+      <UniqueIdentifier>{0f9cf2da-84ae-4815-8e70-7bddafd8a472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render">
+      <UniqueIdentifier>{1e703f52-1609-4d49-8afc-8c2c39afd362}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="math">
+      <UniqueIdentifier>{61a86dd8-9572-47c0-93c5-9989babf7c4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shapes">
+      <UniqueIdentifier>{8a0cae39-6a01-4043-be3a-e35027841952}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vector_rad.h">
+      <Filter>math</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2D.h">
+      <Filter>math</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball_shape.h">
+      <Filter>shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle_shape.h">
+      <Filter>shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Select_Ball.h">
+      <Filter>shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw_rect.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball_collision.h">
+      <Filter>Phisics</Filter>
+    </ClInclude>
+    <ClInclude Include="Energy.h">
+      <Filter>Phisics</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle_collision.h">
+      <Filter>Phisics</Filter>
+    </ClInclude>
+    <ClInclude Include="shape_collision.h">
+      <Filter>Phisics</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWindow.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Equation.h">
+      <Filter>math</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw_text.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="convert_string.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>math</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector_rad.cpp">
+      <Filter>math</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball_shape.cpp">
+      <Filter>shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle_shape.cpp">
+      <Filter>shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Select_Ball.cpp">
+      <Filter>shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw_rect.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball_collision.cpp">
+      <Filter>Phisics</Filter>
+    </ClCompile>
+    <ClCompile Include="Energy.cpp">
+      <Filter>Phisics</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle_collision.cpp">
+      <Filter>Phisics</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MyWindow.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw_text.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>shapes</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
